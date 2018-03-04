@@ -1,0 +1,16 @@
+{
+  "name": "utilapis",
+  "version": "0.1.0",
+  "description": "Textile/ERP utility APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pnhung177",
+  "license": "MIT",
+  "dependencies": {
+    "app-tracelog": "^0.2.1",
+    "app-webweaver": "^0.2.1",
+    "devebot": "^0.2.5"
+  }
+}
